@@ -1,0 +1,51 @@
+$fa-font-path: '~font-awesome/fonts';
+
+$brandColor: #3caa49;
+$whiteColor: #ffffff;
+$blackColor: #000000;
+$primaryColor: #333333;
+$accentColor: #1d87e4;
+$bodyBg: #f7f7f7;
+$defaultLinkColor: $accentColor;
+$defaultBorderColor: #ececec;
+
+//dark mode
+$baseBgDm: #212121;
+$primaryBgDm: #323232;
+$activeDm: #14ffec;
+$activeDmMessage: #cafaf6;
+$activeDmDark: #005e56;
+$dangerDm: #f17cff;
+$dangerDmMessage: #f6abff;
+$dangerDmDark: #60006b;
+$whiteDm: #dbdee4;
+
+$primaryBgWm: #e5e5e5;
+
+// Fonts
+$mainFont: 'Roboto', sans-serif;
+$mainFontSize: 14px;
+$mainFontColor: $primaryColor;
+
+// Navbar
+$navbarHeight: 50px;
+$navbarBackground: #ffffff;
+$navbarBrandLinkColor: #1d87e4;
+
+// Sidebar
+$sidebarWidth: 220px;
+$sidebarCollapsedWidth: 60px;
+$sidebarBackground: #ffffff;
+$sidebarBorder: 1px solid rgba(0, 0, 0, 0.1);
+
+// Help sidebar
+$helpSidebarWidth: 300px;
+$helpSidebarBgColor: #fafafa;
+$helpSidebarBorderColor: rgba(0, 0, 0, 0.1);
+
+// Z-indexes
+$sidebarZIndex: 1500;
+$navbarZIndex: 1501;
+
+$success: #39c800;
+$error: #fa5555;
